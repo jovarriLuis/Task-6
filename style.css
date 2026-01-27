@@ -1,0 +1,48 @@
+/* GLOBAL */
+
+body {
+    scroll-behavior: smooth;
+}
+
+
+/* NAVBAR */
+
+.custom-navbar {
+    background-color: #5a2d82;
+}
+
+
+/* HOME */
+
+#home {
+    height: 70vh;
+    background: linear-gradient(135deg, #5a2d82, #7e3ff2);
+    color: white;
+}
+
+
+/* SECTION TITLES */
+
+.section-title {
+    color: #5a2d82;
+    font-weight: bold;
+}
+
+
+/* SKILLS */
+
+.skill-card {
+    padding: 20px;
+    border-radius: 12px;
+    background-color: white;
+    color: #5a2d82;
+    font-weight: bold;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* CONTACT */
+
+.custom-footer {
+    background-color: #5a2d82;
+}
